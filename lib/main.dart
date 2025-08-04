@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Center(
           child: Text(
             'Hello World!',
-            style: TextStyle(fontSize: 24),
+            style: TextStyle(fontSize: 20),
           ),
         )
 
