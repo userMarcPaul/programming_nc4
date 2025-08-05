@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Setup & Run (Web)
 1. flutter config --enable-web
 2. flutter run -d edge
+.
