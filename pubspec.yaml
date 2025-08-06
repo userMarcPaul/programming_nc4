@@ -29,6 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
+    
     sdk: flutter
 
 
@@ -52,7 +53,10 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
+  font: 
+    -family: Roboto
+    font:
+      -asset: assets/Roboto-Regular.ttf
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
